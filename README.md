@@ -2,7 +2,7 @@
 End-to-end Revenue leak Detection using Mysql and Python
 I built an end-to-end Revenue Leak Detection project using MySQL & Python
 
-In this project, I:
+In this project I
 • Designed a MySQL database for sales data
 • Performed SQL-based revenue analysis
 • Connected MySQL with Python (pandas)
