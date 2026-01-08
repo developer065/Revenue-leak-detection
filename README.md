@@ -12,6 +12,7 @@ Tech stack:
 MySQL | Python | pandas | Jupyter Notebook
 
 Github Repositry:
+https://github.com/developer065/Revenue-leak-detection
 
 
 #DataAnalytics #SQL #Python #GitHubProjects #LearningByDoing
